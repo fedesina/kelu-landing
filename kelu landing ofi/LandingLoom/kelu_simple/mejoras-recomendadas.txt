@@ -1,0 +1,30 @@
+MEJORAS RECOMENDADAS PARA KELU LANDING PAGE
+
+1. Optimización de imágenes:
+   - Convertir las imágenes de fondo a formatos más ligeros (WebP)
+   - Cargar imágenes optimizadas para diferentes tamaños de pantalla
+
+2. Rendimiento:
+   - Minificar CSS y JavaScript para producción
+   - Implementar lazy loading para imágenes
+   - Agregar carga asíncrona de recursos no críticos
+
+3. Accesibilidad:
+   - Mejorar contrastes de colores para cumplir WCAG 2.1
+   - Asegurar que todos los elementos interactivos sean accesibles mediante teclado
+   - Completar atributos ARIA para lectores de pantalla
+
+4. SEO:
+   - Ampliar metadatos para redes sociales (Open Graph, Twitter Cards)
+   - Implementar schema.org para datos estructurados
+   - Crear mapa del sitio XML
+
+5. UX/UI:
+   - Añadir testimonios de clientes
+   - Integrar preguntas frecuentes con acordeón
+   - Implementar chat en vivo o chatbot de demostración
+
+6. Funcionalidades adicionales:
+   - Formulario de contacto con validación del lado del cliente
+   - Calculadora de ahorro/ROI al implementar el bot
+   - Demostración interactiva de las capacidades del bot
