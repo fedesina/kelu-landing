@@ -386,6 +386,23 @@ nav ul li a:hover::after {
     margin-right: 8px;
 }
 
+/* Video Section */
+.video-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.video-container video {
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+.video-container p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+}
+
 /* =========== Footer =========== */
 footer {
     background-color: var(--color-primary);
